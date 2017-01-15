@@ -11,7 +11,7 @@ Window {
     visible: true
     width: 320
     height: 480
-    title: qsTr("QML Day 1 - Counter")
+    title: qsTr("QML Day 1 - Tap Counter")
 
     Text {
         id: lbCounter
