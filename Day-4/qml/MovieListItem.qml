@@ -4,7 +4,7 @@ Rectangle {
 
     // ----- Public Properties ----- //
 
-    property string name
+    property string name: ""
     property int movieIndex: 0
 
     id: root

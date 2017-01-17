@@ -24,7 +24,6 @@ ListView {
               index variable is a built in variable that comes whenever you use delegates and list models.
               It indicates the 0-based index of the item
             */
-
             movieIndex: index + 1
         }
     }
