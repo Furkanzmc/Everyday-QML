@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/MovieList.qml</file>
+        <file>qml/MovieListItem.qml</file>
+        <file>qml/GenreSection.qml</file>
+        <file>qml/Button.qml</file>
+    </qresource>
+</RCC>
